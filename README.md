@@ -90,9 +90,19 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 <br/>
 <br/>
 
-**Linguagens e Dados**
+**Linguagens mais utilizadas atualmente**
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belmondo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<br/>
+
+
+**Tô lá pelo codewars também**
+<br/>
+(Mas eu só mexo de vez em quando rsrs)
+[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/BellCreatusEst)
+
+
+
 
 
 <!--
