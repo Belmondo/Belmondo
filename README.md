@@ -100,7 +100,7 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 <br/>
 (Mas eu só mexo de vez em quando rsrs)
 <br/>
-[![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/BellCreatusEst)
+[![Codewars Badge](https://www.codewars.com/users/BellCreatusEst/badges/large)](https://www.codewars.com/users/BellCreatusEst)
 
 
 
