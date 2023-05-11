@@ -77,8 +77,9 @@
 </a>
 
 <br/>
+<br/>
 
-** Linguagens mais utilizadas atualmente **
+**Linguagens e Dados**
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belmondo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
