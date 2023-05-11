@@ -1,3 +1,14 @@
+<!--
+Exemplos de readme legais
+ https://github.com/madushadhanushka/github-readme
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://laxmena.medium.com/part2-opensource-widgets-to-power-github-profile-readme-7e301cf02647
+https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1eafe05
+
+-->
+
+
+
 ## 👋 Olá, meu nome é <strong>Belmondo</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
