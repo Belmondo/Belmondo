@@ -19,7 +19,7 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 🎓 &nbsp; Finalizando o Doutorado em Ciência da Computação pelo programa de <a href="http://www.mdcc.ufc.br/">Mestrado e Doutorado em Ciência da Computação (MDCC)</a> na UFC.
 - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
