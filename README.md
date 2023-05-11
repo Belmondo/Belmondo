@@ -73,7 +73,7 @@
 <br/>
 
 <a href="https://github.com/Belmondo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belmondo&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belmondo&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
