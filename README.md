@@ -13,7 +13,8 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Já trabalhei em projetos de sistemas web e desktop, e durante muito tempo trabalhei com desenvolvimento para sistemas móveis, especificamente android nativo.
+Já tive a oportunidade de exercer atividades de Teste, Desenvolvimento e Gerência de Projeto.
 
 
 <h3> :man: &nbsp;Sobre mim </h3>
