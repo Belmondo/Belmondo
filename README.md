@@ -14,7 +14,7 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 > Faça uma breve aprensentação sobre você e a sua área.
 
 🔭 Já trabalhei em projetos de sistemas web e desktop, e durante muito tempo trabalhei com desenvolvimento para sistemas móveis, especificamente android nativo.
-Já tive a oportunidade de exercer atividades de Teste, Desenvolvimento e Gerência de Projeto.
+Já tive a oportunidade de exercer atividades de Developer,Tester, Líder Técnico e de Gerência de Projeto.
 
 
 <h3> :man: &nbsp;Sobre mim </h3>
@@ -22,7 +22,7 @@ Já tive a oportunidade de exercer atividades de Teste, Desenvolvimento e Gerên
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Finalizando o Doutorado em Ciência da Computação pelo programa de <a href="http://www.mdcc.ufc.br/">Mestrado e Doutorado em Ciência da Computação (MDCC)</a> da UFC.
 - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Sempre aprendendo mais sobre tecnologias, frameworks e linguagens de programação. Atualmente, estou focando em **Python e Typescript**.
+- 🌱 &nbsp; Sempre aprendendo mais sobre tecnologias, frameworks e linguagens de programação. Atualmente, estou focando em **Java, Python e Typescript**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
