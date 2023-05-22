@@ -13,8 +13,7 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 
 <!--  Faça uma breve aprensentação sobre você e a sua área. -->
 
-🔭 Já trabalhei em projetos de sistemas web e desktop, e durante muito tempo trabalhei com desenvolvimento para sistemas móveis, especificamente android nativo.
-Já tive a oportunidade de exercer atividades de Developer,Tester, Líder Técnico e de Gerência de Projeto.
+🔭 Já trabalhei em projetos web, desktop e apps mobile (o qual tive mais experiência), especificamente com android nativo. Dentro destes projetos, tive a oportunidade de exercer atividades de Developer,Tester, Líder Técnico e de Gerência de Projeto.
 
 
 <h3> :man: &nbsp;Sobre mim </h3>
