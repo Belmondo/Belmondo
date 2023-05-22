@@ -11,7 +11,7 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 
 ## 👋 Olá, meu nome é <strong>Belmondo</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+<!--  Faça uma breve aprensentação sobre você e a sua área. -->
 
 🔭 Já trabalhei em projetos de sistemas web e desktop, e durante muito tempo trabalhei com desenvolvimento para sistemas móveis, especificamente android nativo.
 Já tive a oportunidade de exercer atividades de Developer,Tester, Líder Técnico e de Gerência de Projeto.
