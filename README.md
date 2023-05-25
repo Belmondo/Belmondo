@@ -21,7 +21,7 @@ https://towardsdatascience.com/enrich-your-github-profile-with-these-tips-272fa1
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Finalizando o Doutorado em Ciência da Computação pelo programa de <a href="http://www.mdcc.ufc.br/">Mestrado e Doutorado em Ciência da Computação (MDCC)</a> da UFC.
 - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Sempre aprendendo mais sobre tecnologias, frameworks e linguagens de programação. Atualmente, estou focando em **Java, Python e Typescript**.
+- 🌱 &nbsp; Sempre aprendendo mais sobre tecnologias, frameworks e linguagens de programação. Atualmente, estou focando em **Java, Python e Dart(Flutter)**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
